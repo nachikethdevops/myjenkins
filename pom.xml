@@ -44,13 +44,13 @@
 <repository>
 <id>ARTECH</id>
 <url>
-http://65.2.121.179:8081/repository/packages/
+http://13.235.71.40:8081/repository/packages/
 </url>
 </repository>
 <snapshotRepository>	
 <id>luckysnap</id>
 <url>
-http://65.2.121.179:8081/repository/snapshots/
+http://13.235.71.40:8081/repository/snapshots/
 </url>
 </snapshotRepository>
 </distributionManagement>
